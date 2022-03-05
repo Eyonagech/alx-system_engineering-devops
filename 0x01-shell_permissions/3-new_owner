@@ -1,0 +1,3 @@
+#!/bin/bash
+su betty
+sudo chown betty hello
